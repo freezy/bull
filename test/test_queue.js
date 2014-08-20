@@ -5,6 +5,7 @@ var Promise = require('bluebird');
 
 var STD_QUEUE_NAME = 'video transcoding';
 
+
 describe('Queue', function(){
   var queue;
 
