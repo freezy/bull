@@ -3,7 +3,7 @@ var Queue = require('../');
 var expect = require('expect.js');
 var Promise = require('bluebird');
 
-var STD_QUEUE_NAME = 'test queue';
+var STD_QUEUE_NAME = 'video transcoding';
 
 describe('Queue', function(){
   var queue;
